@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../ventas"
+		},
+		{
+			"path": "../proveedores"
+		},
+		{
+			"path": "../productos"
+		},
+		{
+			"path": "../factura"
+		},
+		{
+			"path": "../usuarios"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../departamentos"
+		},
+		{
+			"path": "../cliente"
+		},
+		{
+			"path": "../categoriaproductos"
+		}
+	],
+	"settings": {}
+}
